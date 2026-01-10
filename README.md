@@ -88,7 +88,6 @@ thermal_super_resolution/
 ├── requirements.txt
 └── README.md
 
-````
 
 
 ## How to Use
@@ -136,5 +135,6 @@ This displays a side by side comparison of the low resolution thermal input, the
 
 ## Output Interpretation
 
-The output visualization consists of three images. The first image is the low resolution thermal input, representing the output of a low cost thermal sensor. The second image is the enhanced thermal output produced by the proposed model. The third image is the high resolution thermal ground truth used during training. 
-A successful enhancement is indicated when the enhanced thermal image exhibits sharper object boundaries and clearer silhouettes while preserving realistic thermal intensity patterns.
+The output visualization consists of three images. The first image is the low resolution thermal input, representing the output of a low cost thermal sensor. The second image is the enhanced thermal output produced by the proposed model. The third image is the high resolution thermal ground truth used during training. A successful enhancement is indicated when the enhanced thermal image exhibits sharper object boundaries and clearer silhouettes while preserving realistic thermal intensity patterns.
+
+![Image](https://github.com/user-attachments/assets/305af396-1dae-4b15-9dd1-ebc22da8a1a5)
