@@ -138,6 +138,3 @@ This displays a side by side comparison of the low resolution thermal input, the
 
 The output visualization consists of three images. The first image is the low resolution thermal input, representing the output of a low cost thermal sensor. The second image is the enhanced thermal output produced by the proposed model. The third image is the high resolution thermal ground truth used during training. 
 A successful enhancement is indicated when the enhanced thermal image exhibits sharper object boundaries and clearer silhouettes while preserving realistic thermal intensity patterns.
-
-Just tell me.
-```
