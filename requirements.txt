@@ -1,0 +1,21 @@
+# Core
+numpy
+opencv-python
+tqdm
+matplotlib
+
+# Deep Learning
+torch
+torchvision
+
+# Image processing & augmentation
+albumentations
+scikit-image
+
+# Utilities
+PyYAML
+tensorboard
+
+# Optional (safe to have)
+onnx
+onnxruntime
